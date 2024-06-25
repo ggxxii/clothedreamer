@@ -8,9 +8,9 @@ The official code of ClotheDreamer: Text-Guided Garment Generation with 3D Gauss
 [Yufei Liu](https://ggxxii.github.io/)<sup>1</sup>,
 [Junshu Tang](https://junshutang.github.io/)<sup>2</sup>,
 Zheng Chu<sup>1</sup>,
-Shijie Zhang<sup>1</sup>,
-Jinkun Hao<sup>1</sup>,
-Junwei Zhu<sup>1</sup>,
+Shijie Zhang<sup>3</sup>,
+Jinkun Hao<sup>2</sup>,
+Junwei Zhu<sup>4</sup>,
 Dongjin Huang<sup>1</sup>,
 
 
